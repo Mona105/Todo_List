@@ -1,0 +1,57 @@
+
+* {
+    justify-content: center;
+    text-align: center;
+}
+
+.headingTodo {
+    color: white;
+    background: transparent;
+    background-color: #8566aa;
+    padding: 6px 0 2px 0;
+   
+    box-shadow: 5px 5px 15px -5px rgpa(0, 0, 0, 0.3);
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+}
+
+table {
+    
+    font-size: 20px;
+    text-align: center;
+}
+
+
+input {
+    font-size: 20px;
+}
+
+.addButton {
+    border-color: gray;
+    font-size: 20px;
+}
+
+.addButton:hover {
+    background-color: rgb(64, 131, 64);
+}
+
+.clearButton {
+    border-color: gray;
+    font-size: 20px;
+}
+
+.clearButton:hover {
+    background-color: rgb(204, 79, 79);
+}
+
+.text {
+    font-size: 20px;
+}
+.colorChange{
+    color: rgb(95, 201, 95);
+  }
+
+  
+ 
+  
